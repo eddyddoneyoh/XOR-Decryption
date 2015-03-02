@@ -27,7 +27,7 @@ public class Ascii
 		sum = sum + (int)test;
 		
 	       
-		}
+	      		}
 
 		System.out.println("the sum of the numbers is :" + sum);
 		
